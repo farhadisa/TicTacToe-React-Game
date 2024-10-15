@@ -1,12 +1,12 @@
-Tic Tac Toe game with React
+# Tic Tac Toe game with React
 
-Tic Tac Toe
+**Tic Tac Toe**
 
-HTML
+**HTML**
 
-CSS 
+**CSS** 
 
-React
+**React**
 
-This is a Tic Tac Toe game, that is created with React by me in 2024.
+### *© This is a Tic Tac Toe game, that is created with React by me in 2024.*
 
